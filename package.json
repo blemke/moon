@@ -1,0 +1,12 @@
+{
+  "name": "gdelt-proxy",
+  "version": "1.0.0",
+  "description": "GDELT GKG tone server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "unzipper": "^0.12.3"
+  }
+}
